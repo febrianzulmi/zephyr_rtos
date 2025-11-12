@@ -1,4 +1,4 @@
-# Zephyr RTOS pada ESP32 — Panduan Instalasi di Windows (CMD Version)
+# Zephyr RTOS pada ESP32 — Panduan Instalasi di Windows
 
 Panduan ini menjelaskan langkah-demi-langkah untuk instalasi Zephyr RTOS di **Windows (Command Prompt)** hingga berhasil membangun dan mengunggah program ke board ESP32.
 
@@ -148,5 +148,3 @@ Anda akan melihat log dari aplikasi Zephyr.
 - Jalankan semua perintah di **cmd biasa**, tidak perlu administrator  
 
 ---
-
-.
