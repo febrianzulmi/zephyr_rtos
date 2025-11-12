@@ -83,8 +83,6 @@ Pastikan versi minimal:
    west packages pip --install
    ```
 
-> Catatan: Di `cmd`, gunakan `\` untuk path (bukan `/`).
-
 ---
 
 ## 4. Install Zephyr SDK
@@ -151,5 +149,4 @@ Anda akan melihat log dari aplikasi Zephyr.
 
 ---
 
-Selamat! 🎉  
-Anda telah berhasil menginstal **Zephyr RTOS** dan menjalankan program pertama di **ESP32** melalui Command Prompt Windows.
+.
