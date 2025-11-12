@@ -102,7 +102,7 @@ Masuk ke folder Zephyr dan jalankan build:
 
 ```cmd
 cd %HOMEPATH%\zephyrproject\zephyr
-west build -p always -b esp32_devkitc samples\basic\blinky
+west build -p always -b esp32_devkitc/esp32/procpu samples\basic\blinky
 ```
 
 Jika build berhasil, file firmware akan muncul di:
